@@ -30,11 +30,11 @@ List of Languages & Tools of Trade.
 
 **Personal Site:** [mono.my](https://mono.my)
 
-![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&link=https://twitter.com/ngkenfai)
-![StackOverflow](https://img.shields.io/badge/-StackOverflow-black?logo=stackoverflow&link=https://stackoverflow.com/users/1879396/kenfai)
-![Hashnode](https://img.shields.io/badge/-Hashnode-2A62FF?logo=hashnode&link=https://hashnode.com/@kenfai)
-![dev.to](https://img.shields.io/badge/-dev.to-white?logo=devdotto&logoColor=black&link=https://dev.to/kenfai)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-006192?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kenfai/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/ngkenfai)
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-black?logo=stackoverflow)](https://stackoverflow.com/users/1879396/kenfai)
+[![Hashnode](https://img.shields.io/badge/-Hashnode-2A62FF?logo=hashnode)](https://hashnode.com/@kenfai)
+[![dev.to](https://img.shields.io/badge/-dev.to-white?logo=devdotto&logoColor=black)](https://dev.to/kenfai)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-006192?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenfai/)
 
 
 # Very Interesting
