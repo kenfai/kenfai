@@ -4,9 +4,9 @@
 
 **Location:** Kuala Lumpur, MALAYSIA 🇲🇾
 
-# Practising
+# Practicing
 
-List of Languages & Tools of Trade.
+List of Languages & Tools of the Trade.
 
 ![PHP](https://img.shields.io/badge/-PHP-474A8A?&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-white?logo=laravel)
@@ -39,7 +39,7 @@ List of Languages & Tools of Trade.
 
 # Very Interesting
 
-Other topics that I'm curious in or exploring.
+Other topics that I'm curious about or actively exploring.
 
 - Information & Network Security
 - wasm
